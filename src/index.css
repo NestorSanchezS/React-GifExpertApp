@@ -52,7 +52,7 @@ input {
 
 .container__card {
   display: grid;
-  grid-template-columns: repeat(4, 5fr);
+  grid-template-columns: repeat(5, 4fr);
   gap: 20px;
 }
 
