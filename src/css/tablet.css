@@ -1,0 +1,7 @@
+/* @media (max-width: 800px) {
+  .container__card {
+    display: grid;
+    grid-template-columns: repeat(3, 5fr);
+    gap: 20px;
+  }
+} */
